@@ -15,7 +15,7 @@ To install this module from source code, run the following commands:
 
 Please your HUSH donations to
 
-zcASWjRE2J1J1unhYRSeo7WfFg8rydU7E597uUfJpFCDxYs3uVdAMLZfrtPPsKgmT6D2MbvczxpD5SwMU9C6NNqRr4hujpc
+`zcASWjRE2J1J1unhYRSeo7WfFg8rydU7E597uUfJpFCDxYs3uVdAMLZfrtPPsKgmT6D2MbvczxpD5SwMU9C6NNqRr4hujpc`
 
 to support this CPAN module. Thanks!
 
