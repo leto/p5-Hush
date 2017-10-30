@@ -11,10 +11,6 @@ To install this module from source code, run the following commands:
     ./Build test
     ./Build install clean
 
-# Who wrote this?
-
-Duke Leto <duke@leto.net>
-
 # Can I Support This Awesome stuff?
 
 Please your HUSH donations to
